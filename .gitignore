@@ -1,3 +1,5 @@
 credentials
 .env
 node_modules
+colour
+colour.pub
