@@ -1,6 +1,7 @@
 {
   "name": "colour-mirrors-vestaboard",
   "packageManager": "yarn@3.1.1",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",

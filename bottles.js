@@ -1,4 +1,4 @@
-[
+const bottles = [
   {
     "name": "The Sun",
     "id": "1",
@@ -609,3 +609,5 @@
     "bottom": "deep magenta"
   }
 ]
+
+export default bottles;
