@@ -1,13 +1,12 @@
 {
-  "name": "colour-mirrors",
-  "version": "1.0.0",
-  "description": "",
+  "name": "colour-mirrors-vestaboard",
+  "packageManager": "yarn@3.1.1",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Alasdair Blackwell",
   "license": "ISC",
   "dependencies": {
     "@vestaboard/installables": "^1.0.8",
